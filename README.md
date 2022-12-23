@@ -11,3 +11,5 @@ Exercises to practice
 
 <a href="https://felipevalory.github.io/Websites-Projects/website-hours/index.html">Time and picture<a>
 
+<a href="https://felipevalory.github.io/Websites-Projects/website-paralax/index.html">Parallax effect<a>
+
