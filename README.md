@@ -17,4 +17,4 @@ Exercises to practice
 
 <a href="https://felipevalory.github.io/Websites-Projects/website-login/index.html">Login - media queries<a>
 
-<a href="https://felipevalory.github.io/Websites-Project/website-tipsCalculator/index.html">Tips Calculator<a>
+<a href="https://felipevalory.github.io/Websites-Projects/website-tipsCalculator/index.html">Tips Calculator<a>
